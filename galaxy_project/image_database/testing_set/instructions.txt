@@ -1,0 +1,2 @@
+- Unzip the training_set and testing_set files
+- You'll find the 5 categories in each zip file
